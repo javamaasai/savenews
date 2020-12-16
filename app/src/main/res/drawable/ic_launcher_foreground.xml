@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <group android:scaleX="1.076087"
+      android:scaleY="1.076087"
+      android:translateX="29.25"
+      android:translateY="29.25">
+      <path
+          android:fillColor="#00574B"
+          android:pathData="M15.431,19.048c-1.071,-1.12 -2.847,-1.16 -3.968,-0.089L3.354,26.71c-4.332,4.141 -4.488,11.032 -0.348,15.362c4.483,4.691 11.946,4.86 16.636,0.377l7.463,-7.135c0.538,-0.515 0.851,-1.222 0.867,-1.966c0.018,-0.745 -0.263,-1.465 -0.778,-2.003L15.431,19.048z"/>
+      <path
+          android:fillColor="#00574B"
+          android:pathData="M39.899,1.592C34.412,-1.23 27.612,1.012 24.791,6.5l-4.879,9.482c-0.34,0.662 -0.404,1.433 -0.177,2.142s0.728,1.299 1.39,1.639l15.137,7.778c1.378,0.708 3.07,0.166 3.779,-1.212l4.759,-9.251C47.686,11.465 45.51,4.477 39.899,1.592zM41.102,14.843l-3.892,7.563l-12.461,-6.404l3.989,-7.755c1.736,-3.374 5.854,-4.632 9.229,-2.896C41.462,7.15 42.9,11.346 41.102,14.843z"/>
+      <path
+          android:fillColor="#00574B"
+          android:pathData="M35.94,35.777m-2.784,0a2.784,2.784 0,1 1,5.568 0a2.784,2.784 0,1 1,-5.568 0"/>
+      <path
+          android:fillColor="#00574B"
+          android:pathData="M31.784,42.34m-2.45,0a2.45,2.45 0,1 1,4.9 0a2.45,2.45 0,1 1,-4.9 0"/>
+      <path
+          android:fillColor="#00574B"
+          android:pathData="M42.159,42.464m-2.326,0a2.326,2.326 0,1 1,4.652 0a2.326,2.326 0,1 1,-4.652 0"/>
+      <path
+          android:fillColor="#00574B"
+          android:pathData="M11.689,10.681m-2.855,0a2.855,2.855 0,1 1,5.71 0a2.855,2.855 0,1 1,-5.71 0"/>
+      <path
+          android:fillColor="#00574B"
+          android:pathData="M17.667,5.826m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0"/>
+      <path
+          android:fillColor="#00574B"
+          android:pathData="M9.347,3.34m-2.18,0a2.18,2.18 0,1 1,4.36 0a2.18,2.18 0,1 1,-4.36 0"/>
+  </group>
+</vector>

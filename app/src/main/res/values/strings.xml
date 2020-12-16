@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Save</string>
+    <string name="app_subtext">Archive Your Media\n<a href="#">learn more</a></string>
+    <string name="search_hint">Search save archive</string>
+</resources>
