@@ -2,7 +2,7 @@
 
 # Save News
 
-Dawa statistics is an application that list medical data information.
+Save news is an application that list news data.
 
   - data is loaded in a list
   - designed for low network
@@ -12,7 +12,7 @@ Dawa statistics is an application that list medical data information.
 
 ### Tech stack
 
-Dawastatistics uses a number of open source projects to work properly:
+it uses a number of open source projects to work properly:
 
 * [Kotlin] - programming language!
 * [RxJava] - Java VM implementation of Reactive Extensions.
