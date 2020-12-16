@@ -1,4 +1,4 @@
-![dawastat ad sample](https://github.com/javamaasai/savenews/blob/master/screenshots/savenews-wireframe.png?raw=true)
+![dawastat ad sample](https://github.com/javamaasai/savenews/blob/main/screenshots/savenews-wireframe.png?raw=true)
 
 # Save News
 
