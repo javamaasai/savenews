@@ -19,6 +19,7 @@ it uses a number of open source projects to work properly:
 * [Retrofit] - REST client for Android and Java which aims to make it easier to consume RESTful web services.
 * [Dagger] - is UI dependency injection framework
 * [mockito] - an open source testing framework for Java
+* [objectbox] - is a super fast mobile database that persists objects.
 
 ### Installation
 
